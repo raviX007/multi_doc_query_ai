@@ -4,3 +4,15 @@ tiktoken
 chromadb
 langchain-community
 streamlit
+pypdf
+python-docx
+docx2txt
+pandas
+openpyxl
+unstructured
+python-magic
+tabulate
+pdf2image
+
+pptx
+beautifulsoup4
