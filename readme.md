@@ -193,4 +193,4 @@ To test the application:
 
 ## 🏞️ Screenshot of working application
 
-![alt text](image.png)
+![alt text](image-1.png)
