@@ -13,6 +13,4 @@ unstructured
 python-magic
 tabulate
 pdf2image
-
-pptx
 beautifulsoup4
