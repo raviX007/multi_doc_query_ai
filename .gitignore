@@ -1,3 +1,4 @@
 .venv/
 new_articles/
 db/
+.streamlit/
