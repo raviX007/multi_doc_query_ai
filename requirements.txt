@@ -5,6 +5,7 @@ chromadb
 langchain-community
 streamlit
 pypdf
+pypdf2
 python-docx
 docx2txt
 pandas
